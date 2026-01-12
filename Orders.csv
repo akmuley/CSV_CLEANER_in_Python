@@ -1,0 +1,16 @@
+id,name,order_date,amount,date_valid
+1,Alice,2024-12-31,100,yes
+2,Bob,2024-12-31,200,yes
+3,Charlie,2024-12-31,150,yes
+4,David,31-12-2024,175,no
+5,Eva,,90,no
+6,Frank,   ,120,no
+7,Grace,2024/12/31,130,no
+8,Henry,2024-02-01,110,yes
+9,Ivy,2024-01-02,115,yes
+10,Jack,not-a-date,140,no
+11,Kate,2024-02-29,160,yes
+12,Leo,2023-02-29,170,no
+13,Mia,2024-07-04,180,yes
+14,Nina,2024-07-04,190,yes
+15,Oscar,2024-04-07,195,yes
